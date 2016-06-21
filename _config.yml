@@ -1,0 +1,28 @@
+name: PTSDTraumaUpdates
+favicon: null
+layout_spectrum: 0.5182297045830637
+typography_spectrum: 0.5666566451545805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8491191500797868
+  lightness: 0.534089756431058
+  saturation: 0.8426737042609602
+  rhythmicContrast: 0.4261982743628323
+purpose: []
